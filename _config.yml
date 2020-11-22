@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open source project"
+title                    : "Developer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "dayeong park"
-description              : "skku-OSS-team 7"
+description              : "SKKU-OSS-team 7"
 url                      : # the base hostname & protocol for your site e.g. "https://dayeong089.github.io"
 baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
