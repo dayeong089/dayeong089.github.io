@@ -94,10 +94,10 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dayeong Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "skku-OSS-team 7"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
